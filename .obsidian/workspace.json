@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "0ac790bd6b635180",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12c94f3279882c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96ed4a1795ed60b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00f4df4e4cf2a0dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db29d587c9ca961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26140e858cbe4b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "049726968f9acaef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "endolymph",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccb215971b3de0ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "eb3f260e81d72a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8b4b25e600d1de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1543d5f2d3ab61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adb0e36eeb4a122f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6397c3f87854d8a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "bf621ca1c3222546",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d96ed4a1795ed60b",
+  "lastOpenFiles": [
+    "Salivary Glands.md",
+    "Measles Mumps Rubella.md",
+    "Anti-viral drugs.md",
+    "Macrolides and clindamycin.md",
+    "Aminoglycosides.md",
+    "Tetracyclines.md",
+    "OSPE stuff.md",
+    "Microbiology.md",
+    "Enterobacteriaceae.md",
+    "Introduction to anaerobic bacteria.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Replication of viruses.md",
+    "Streptococci.md",
+    "Staphylococci.md",
+    "Principles of anti-microbial therapy.md",
+    "Fluoroquinolones.md",
+    "Penicillins.md",
+    "Cephalosporins.md",
+    "Carcinogenic agents.md",
+    "Untitled.canvas",
+    "Microbiology/Carcinogenic Agents.md",
+    "Microbiology",
+    "incomplete.md",
+    "2023-11-03.md",
+    "Clostridium.md",
+    "Prescription writing bacillary tonsillitis.canvas",
+    "Prescription writing Dysentery.canvas",
+    "Prescription writing malaria.canvas",
+    "Prescription writing Vaginal Candidiasis.canvas",
+    "Neoplasia",
+    "GIT/Histology",
+    "GIT/Gross Anatomy",
+    "GIT"
+  ]
+}
